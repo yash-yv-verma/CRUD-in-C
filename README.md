@@ -2,6 +2,6 @@
 
 This is a CRUD application developed in C. The application does CRUD operations on courses, and their information at my university: University of Texas, San Antonio (UTSA).
 
-<p style="color:orange">Click the image for a better view.</p>
+$${\color{orange}Click-the-images-below-for-a-better-view.}$$
 
-<img src="CRUD-in-C.png" alt="Example Image" width="400" height="800"/>
+<img src="CRUD-in-C.png" alt="Example Image" width="600" height="1000"/>
